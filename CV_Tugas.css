@@ -459,8 +459,8 @@ span{
         position: relative;
         align-items: center;
         justify-content: center;
-        width: 30px;
-        height: 30px;
+        width: 25vw;
+        height: 25vw;
         border-radius: 50%;
         box-shadow: 0 0 40px solid #b74b4b;
         cursor: pointer;
